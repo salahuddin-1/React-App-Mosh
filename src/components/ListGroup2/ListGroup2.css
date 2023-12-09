@@ -1,0 +1,11 @@
+.list-group {
+    list-style: none;
+    padding: 0;
+    background: pink;
+}
+
+
+
+/* We can write all the style of a component in a separate .css file
+    and import it in the component file. And use the component as usual.
+*/
